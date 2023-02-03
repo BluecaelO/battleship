@@ -18,3 +18,7 @@ Noublier pas de compiler avec cmake dans le répertoire battleship:
 >> cmake.
 >> make
 ```
+
+Je vous recommande d'utiliser Linux.
+
+L'utilisation de windows peut possiblement causé des bugs.L'utilisation de Windows peut possiblement causer des bugs.
