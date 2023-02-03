@@ -11,3 +11,10 @@ Par défaut le client se connecte au loopback
 ```
 addrClient.sin_addr.s_addr=inet_addr("127.0.0.1");
 ```
+
+Noublier pas de compiler avec cmake dans le répertoire battleship:
+
+```
+>> cmake.
+>> make
+```
